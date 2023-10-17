@@ -215,3 +215,10 @@ footer{
 footer h1{
     font-size: 20px;
 }
+
+.allprojects{
+    font-size: 50px;
+    font-display: center;
+    padding-top: 40px;
+    border-bottom: 2px solid var(--neutural-focus);
+}
